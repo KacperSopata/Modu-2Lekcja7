@@ -1,0 +1,29 @@
+C:\Users\48666\Desktop\SzkołaDotNet\TASK 9\bin\Debug\net8.0\TASK 9.exe
+C:\Users\48666\Desktop\SzkołaDotNet\TASK 9\bin\Debug\net8.0\TASK 9.deps.json
+C:\Users\48666\Desktop\SzkołaDotNet\TASK 9\bin\Debug\net8.0\TASK 9.runtimeconfig.json
+C:\Users\48666\Desktop\SzkołaDotNet\TASK 9\bin\Debug\net8.0\TASK 9.dll
+C:\Users\48666\Desktop\SzkołaDotNet\TASK 9\bin\Debug\net8.0\TASK 9.pdb
+C:\Users\48666\Desktop\SzkołaDotNet\TASK 9\obj\Debug\net8.0\TASK 9.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\48666\Desktop\SzkołaDotNet\TASK 9\obj\Debug\net8.0\TASK 9.AssemblyInfoInputs.cache
+C:\Users\48666\Desktop\SzkołaDotNet\TASK 9\obj\Debug\net8.0\TASK 9.AssemblyInfo.cs
+C:\Users\48666\Desktop\SzkołaDotNet\TASK 9\obj\Debug\net8.0\TASK 9.csproj.CoreCompileInputs.cache
+C:\Users\48666\Desktop\SzkołaDotNet\TASK 9\obj\Debug\net8.0\TASK 9.dll
+C:\Users\48666\Desktop\SzkołaDotNet\TASK 9\obj\Debug\net8.0\refint\TASK 9.dll
+C:\Users\48666\Desktop\SzkołaDotNet\TASK 9\obj\Debug\net8.0\TASK 9.pdb
+C:\Users\48666\Desktop\SzkołaDotNet\TASK 9\obj\Debug\net8.0\TASK 9.genruntimeconfig.cache
+C:\Users\48666\Desktop\SzkołaDotNet\TASK 9\obj\Debug\net8.0\ref\TASK 9.dll
+C:\Users\48666\Desktop\Moduł_2 Lekcja_7\TASK 9\bin\Debug\net8.0\TASK 9.exe
+C:\Users\48666\Desktop\Moduł_2 Lekcja_7\TASK 9\bin\Debug\net8.0\TASK 9.deps.json
+C:\Users\48666\Desktop\Moduł_2 Lekcja_7\TASK 9\bin\Debug\net8.0\TASK 9.runtimeconfig.json
+C:\Users\48666\Desktop\Moduł_2 Lekcja_7\TASK 9\bin\Debug\net8.0\TASK 9.dll
+C:\Users\48666\Desktop\Moduł_2 Lekcja_7\TASK 9\bin\Debug\net8.0\TASK 9.pdb
+C:\Users\48666\Desktop\Moduł_2 Lekcja_7\TASK 9\obj\Debug\net8.0\TASK 9.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\48666\Desktop\Moduł_2 Lekcja_7\TASK 9\obj\Debug\net8.0\TASK 9.AssemblyInfoInputs.cache
+C:\Users\48666\Desktop\Moduł_2 Lekcja_7\TASK 9\obj\Debug\net8.0\TASK 9.AssemblyInfo.cs
+C:\Users\48666\Desktop\Moduł_2 Lekcja_7\TASK 9\obj\Debug\net8.0\TASK 9.csproj.CoreCompileInputs.cache
+C:\Users\48666\Desktop\Moduł_2 Lekcja_7\TASK 9\obj\Debug\net8.0\TASK 9.sourcelink.json
+C:\Users\48666\Desktop\Moduł_2 Lekcja_7\TASK 9\obj\Debug\net8.0\TASK 9.dll
+C:\Users\48666\Desktop\Moduł_2 Lekcja_7\TASK 9\obj\Debug\net8.0\refint\TASK 9.dll
+C:\Users\48666\Desktop\Moduł_2 Lekcja_7\TASK 9\obj\Debug\net8.0\TASK 9.pdb
+C:\Users\48666\Desktop\Moduł_2 Lekcja_7\TASK 9\obj\Debug\net8.0\TASK 9.genruntimeconfig.cache
+C:\Users\48666\Desktop\Moduł_2 Lekcja_7\TASK 9\obj\Debug\net8.0\ref\TASK 9.dll
